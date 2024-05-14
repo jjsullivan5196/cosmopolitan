@@ -46,6 +46,8 @@ extern const int SIG_BLOCK;
 extern const int SIG_SETMASK;
 extern const int SIG_UNBLOCK;
 
+extern const int SIGEV_SIGNAL;
+
 COSMOPOLITAN_C_END_
 
 #define SIGABRT   6
